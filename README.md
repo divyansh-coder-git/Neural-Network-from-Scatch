@@ -93,3 +93,7 @@ Built for the ML Club, NIT Silchar — Neural Network Implementation Challenge.
 ## Author
 
 Divyansh Pandey
+
+## Credits
+
+Thank you Claude and ChatGPT for helping me learn and write this README 🫀
