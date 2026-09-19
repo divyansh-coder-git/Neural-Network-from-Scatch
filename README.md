@@ -1,5 +1,11 @@
 # Neural Network Implementation from Scratch
 
+*You can also check out the presentation for this project on [Presentation](https://canva.link/e86ue4p68iu3ow7)*
+
+Colab notebooks for running and experimenting hassle-free<br>
+[NN from Scratch](https://colab.research.google.com/drive/1WCsocXvbgSxDBIWtWFak9W_elVLZiXq7?usp=sharing)<br>
+[NN in tensorflow](https://colab.research.google.com/drive/1Vf0wunlF6fVGO5ARNpQpe0HyjIIPlzf2?usp=sharing)
+
 A 3-layer neural network built entirely with NumPy — no autograd, no high-level ML frameworks for the core implementation — trained to classify handwritten digits. Includes a from-scratch forward pass, backward pass (derived and implemented manually), gradient checking, and a side-by-side comparison against a PyTorch/Keras rebuild of the same architecture.
 
 ## Overview
